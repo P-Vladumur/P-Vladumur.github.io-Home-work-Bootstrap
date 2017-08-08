@@ -1,0 +1,89 @@
+.main-menu {
+margin-top: 30px;
+padding-bottom: 10px;
+}
+.main-menu:hover{
+  border-bottom: 3px solid #5094f2;
+}
+a {
+  text-decoration: none;
+  font-size: 18px;
+  color: #6c6c6c;
+}
+.banner{
+  background-image: url(banner.jpg);
+  background-size: cover;
+}
+h1 {
+  color: #ffffff;
+  margin-top: 120px;
+}
+.banner p {
+  font-size: 20px;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+button {
+  margin-left: 15px;
+  background-image: url(button.png);
+  background-size: cover;
+  width: 150px;
+  height:40px;
+  background-color: #5094f2;
+}
+button>span{
+	padding-left: 30px;
+	font-size: 15px;
+	color: #fff;
+}
+.product{
+  margin-top: 40px;
+}
+.div-product {
+  text-align: center;
+}
+.div-product img{
+margin: auto;
+}
+h3{
+  font-size: 20px;
+  color: #5094f2;
+  margin: auto;
+}
+h3+p{
+  color: #6c6c6c;
+  font-size: 13px;
+  margin: auto;
+}
+.basket {
+  margin-top: 50px;
+  padding-bottom: 20px;
+}
+h2{
+  text-align: center;
+  color: #6c6c6c;
+}
+h2+img{
+margin: auto;
+}
+article>h3 {
+  margin-top: 50px;
+  text-decoration: none;
+  color: #6c6c6c;
+  font-size: 20px;
+  padding-bottom: 20px;
+}
+article>h3+p {
+  color: #6c6c6c;
+  font-size: 13px;
+}
+.div-footer {
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+  padding-top:40px;
+  padding-bottom: 40px;
+}
+.div-footer>span {
+  color: #6c6c6c;
+  font-size: 13px;
+}

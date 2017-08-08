@@ -1,0 +1,24 @@
+@media screen and (max-width: 990px){
+  .main-menu {
+  margin-top: 5px;
+  padding-bottom: 0px;
+  }
+.banner-text{
+  text-align: center;
+  padding-bottom: 30px;
+}
+h1 {
+  color: #ffffff;
+  margin-top: 30px;
+}
+article {
+  text-align: center;
+}
+.div-footer {
+  padding-top:10px;
+  padding-bottom: 10px;
+}
+.main-menu {
+  margin-left: 45%;
+}
+}
